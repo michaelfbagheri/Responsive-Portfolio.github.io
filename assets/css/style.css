@@ -1,0 +1,466 @@
+.biosection {
+	background-color: #ffffff;
+	font-size: 16px;
+    font-weight: 400;
+    font-family: 'Sawarabi Mincho', sans-serif;
+	height: 550px;
+    margin: 0 0 0 200px;
+    padding: 0 20px;
+    position: relative;
+    width: 960px;
+}
+
+
+.biosection-p {
+	background-color: #ffffff;
+	font-size: 16px;
+    font-weight: 400;
+    font-family: 'Sawarabi Mincho', sans-serif;
+	height: 550px;
+    margin: 0 0 0 200px;
+    padding: 0 20px;
+    position: relative;
+    width: 960px;
+}
+
+.bottomimagecontainer {
+    float: left;
+    position: relative;
+    width: 950px;
+}
+
+
+.comingsoon {
+    color: orangered;
+    bottom: 40px;
+	font-size: 12px;
+	font-weight: bold;
+    padding: 5;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+
+.copyrightblock {
+    background-color: grey;
+    bottom: 0;
+    color: #666666;
+    display: block;
+    height: 50px;
+    margin: 0;
+    position: fixed;
+	text-align: center;
+    width: 100%;
+}
+
+
+.copyrighttxt {
+    background-color: grey;
+    color: white;
+    display: block; 
+    height: auto;
+    margin: 0 0 0 200px;
+	position: relative;
+    text-align: center;
+	width: 960px;
+}
+
+
+.entrybox {
+    border: grey;
+    border-style: solid;
+    border-width: 1px;
+    height: 35px;
+    margin: 5px 0 5px 10px;
+    width: 940px;
+}
+
+
+.firstparagraphindent {
+    padding: 0 0 0 220px;
+}
+
+
+.greyline {
+    background-color: grey;
+    height: 2px;
+    margin: 0;
+    width: 100%;
+}
+
+
+.indentheader {
+    color: #4aaaa5;
+    margin: 10px 0 10px 10px;
+}
+
+.indentcontent{
+    margin: 0 0 0 10px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+
+.line2 {  
+    background-color: grey;
+    display: block;
+	height: 2px;
+	margin: 0 10px;
+    width: 940px;  
+}
+
+
+.line3 {
+	background-color: #4aaaa5;
+	border-width: 0;
+    bottom: 50px;
+    display: block;
+	font-size: 0px;
+    height: 5px;
+	position: fixed;
+    width: 100%;   
+}
+
+
+.msgentrybox {
+	border: grey;
+    border-style: solid;
+    border-width: 1px;
+    height: 200px;
+    margin: 5px 0 5px 10px;
+    padding: 2px 0 0 10px;
+	width: 940px;
+}
+
+
+.myimage { 
+    border: 2px solid black;
+	float: left;
+	height: auto;
+	transform: rotate(0deg);
+    width: 200px;
+}
+
+
+.name {
+    background-color: #4aaaa5;
+    color: white;
+    float: left;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    height: 61px;
+    margin: 0;
+    padding: 10px 0 0 0;
+    position: absolute;
+    text-align: center;
+    width: 275px;   
+}
+
+
+.navstyle {
+    float: right;
+    height: 71px;
+    position: relative;
+}
+
+
+
+.pagecolor {
+    background: url(../../assets/images/dust_scratches.png);
+    height: 100%;
+	padding: 55px 0 0 0;
+    width: 100%;	
+}
+
+.pagecolor-p {
+    background: url(../../assets/images/dust_scratches.png);
+    height: 100%;
+	padding: 55px 0 0 0;
+    width: 100%;	
+}
+
+.piclabel {
+     font-size: Auto;
+	 text-align: center;
+}
+
+
+.portfoliocontainers {
+    float: left;
+    position: relative;
+    margin: 5px 0 5px 10px;
+    
+}
+
+
+.Portimage1{
+	border: 2px solid black;
+    float: left;
+    height: 150px;
+    margin: 5px;
+	position: relative;
+	transform: rotate(0deg);
+    width: 150px;
+}
+
+
+.Portimage2{
+	border: 2px solid black;
+    float: left;
+    height: 150px;
+    margin: 50px 5px 5px 5px;
+	position: relative;
+	transform: rotate(0deg);
+    width: 150px;
+}
+
+
+.style {
+    margin: 0;
+    height: 100%;
+}
+
+.style-p {
+    margin: 0;
+    height: 100%;
+}
+
+
+.submitbutton {
+    background-color: grey;
+    border:grey;
+    border-style: solid;
+    border-width: 1px;
+    color:white;
+    height: 35px;
+    font-size: 15px;
+    margin: 5px 0 5px 10px;
+	width: 100px;
+}
+
+
+.submitbutton:hover {
+    background-color:white;   
+    content: "Not working" 
+}
+
+
+.thirdblock {
+    margin: 0;
+    position: relative;
+
+}
+
+
+.topbox {
+    color: #cccccc;
+    height: auto;
+    margin: 0 0 0 200px;
+    padding: 0;
+	width: 960px;
+}
+
+
+.topimagecontainer {
+    float: left;
+    position: relative;	
+    width: 950px;
+}
+
+
+
+
+
+@media only screen and (max-width: 640px){
+
+
+        .biosection {
+            background-color: #ffffff;
+            font-size: 16px;
+            font-weight: 400;
+            font-family: 'Sawarabi Mincho', sans-serif;
+            margin: 0 0 0 90px;
+            padding: 0 20px 20px;
+            height: auto;
+            position: relative;
+            width: 400px;
+        }
+
+        .biosection-p {
+            background-color: #ffffff;
+            font-size: 16px;
+            font-weight: 400;
+            font-family: 'Sawarabi Mincho', sans-serif;
+            margin: 0 0 0 90px;
+            padding: 0 20px 20px;
+            height: 2700px;
+            position: relative;
+            width: 400px;
+        }
+
+
+        .copyrighttxt {
+            background-color: grey;
+            color: white;
+            display: block; 
+            height: auto;
+            margin: 0 0 50px 200px;
+            position: relative;
+            text-align: center;
+            width: 180px;
+        }
+
+        .entrybox {
+           width: 95%;
+        }
+
+        .greyline {
+            background-color: grey;
+            height: 2px;
+            margin: 0;
+            width: 100%;
+            position: relative;
+            top: 80px;
+        }
+
+        .indentheader {
+            color: #4aaaa5;
+            margin: 10px 0 10px 140px;
+        }
+        .myimage { 
+            border: 2px solid black;
+            height: auto;
+            transform: rotate(0deg);
+            width: 200px;
+            margin: 0 95px 40px;
+        }
+
+        .line2 {  
+            background-color: grey;
+            display: block;
+            height: 2px;
+            margin: 0 10px;
+            width: 380px;  
+        }
+
+        .firstparagraphindent {
+            padding: 170px 0 0 10px;
+            
+        }
+
+        .msgentrybox {           
+            width: 95%;
+        }
+      
+        .name {
+            background-color: #4aaaa5;
+            color: white;           
+            font-family: 'Sawarabi Mincho', sans-serif;
+            height: 61px;
+            margin: 0;
+            padding: 10px 0 0 20px;
+            text-align: center;
+            width: 100%;   
+        }
+        
+        
+        .navstyle {
+            height: 71px;
+            float: left;
+            top: 100px;
+            margin: 0 0 0 240px;
+         
+        }
+        .pagecolor {
+            background: url(../../assets/images/dust_scratches.png);
+            height: auto;
+            margin: 75px 0 0 0;
+            padding: 55px 0 75px;
+            width: 100%;	
+        }
+
+        .pagecolor-p {
+            background: url(../../assets/images/dust_scratches.png);
+            height: 100%;
+            margin: 75px 0 0 0;
+            padding: 55px 0;
+            width: 100%;	
+        }
+
+        .portfoliocontainers {        
+            margin: 5px 80px 5px 95px;
+        }
+
+        .Portimage1{
+            border: 2px solid black;        
+            height: 200px;
+            margin: 5px;            
+            transform: rotate(0deg);
+            width: 200px;
+        }
+        
+        
+        .Portimage2{
+            border: 2px solid black;            
+            height: 200px;
+            margin: 5px 5px 5px 5px;           
+            transform: rotate(0deg);
+            width: 200px;
+        }
+        
+        .topbox {
+            color: #cccccc;
+            height: auto;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        .style-p{
+            height: 2800px;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+      
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
