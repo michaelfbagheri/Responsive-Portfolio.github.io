@@ -274,22 +274,13 @@
 
 @media only screen and (max-width: 1225px){
     .biosection {
-        background-color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        font-family: 'Sawarabi Mincho', sans-serif;
         margin: 0 0 0 75px;
         padding: 0 20px 20px;
-        height: auto;
         position: relative;
         width: 800px;
     }
 
     .biosection-p {
-        background-color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        font-family: 'Sawarabi Mincho', sans-serif;
         margin: 0 0 0 75px;
         padding: 0 20px 20px;
         height: 1300px;
@@ -308,7 +299,7 @@
 
     .entrybox {
         width: 95%;
-     }
+    }
 
     .msgentrybox {           
         width: 95%;
@@ -324,36 +315,32 @@
     }
 
     .pagecolor {
-         margin: 0 0 0 0;
-         padding:30px 0 0 0;
+        margin: 0 0 0 0;
+        padding:30px 0 0 0;
     }
     
     .pagecolor-p {
         margin: 0 0 0 0;
         padding:30px 0 0 0;
-   }
+    }
 
-         .portfoliocontainers {        
-            margin: 5px;
-        }
+    .portfoliocontainers {        
+        margin: 5px;
+    }
 
-        .Portimage1{
-            border: 2px solid black;        
-            height: 225px;
-            margin: 5px 20px 5px 5px;            
-            transform: rotate(0deg);
-            width: 225px;
-        }
-        
-        
-        .Portimage2{
-            border: 2px solid black;            
-            height: 225px;
-            margin: 5px 20px 5px 5px;           
-            transform: rotate(0deg);
-            width: 225px;
-        }
-   	
+    .Portimage1{               
+        height: 225px;
+        margin: 5px 20px 5px 5px;            
+        width: 225px;
+    }
+    
+    
+    .Portimage2{           
+        height: 225px;
+        margin: 5px 20px 5px 5px;           
+        width: 225px;
+    }
+
     
     .topbox {
         margin: 0 0 0 71px; 
@@ -362,12 +349,10 @@
 
     .style {
         height: 900px;
-
     }
 
     .style-p {
         height: 1450px;
-
     }
 
 }
@@ -376,26 +361,15 @@
 
 @media only screen and (max-width: 980px){
     .biosection {
-        background-color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        font-family: 'Sawarabi Mincho', sans-serif;
         margin: 0 0 0 75px;
         padding: 0 20px 20px;
-        height: auto;
-        position: relative;
         width: 650px;
     }
 
     .biosection-p {
-        background-color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        font-family: 'Sawarabi Mincho', sans-serif;
         margin: 0 0 0 75px;
         padding: 0 20px 20px;
         height: 1750px;
-        position: relative;
         width: 650px;
     }
 
@@ -435,26 +409,22 @@
         padding:30px 0 0 0;
    }
 
-         .portfoliocontainers {        
-            margin: 5px;
-        }
+        .portfoliocontainers {        
+        margin: 5px;
+    }
 
-        .Portimage1{
-            border: 2px solid black;        
-            height: 275px;
-            margin: 5px;            
-            transform: rotate(0deg);
-            width: 275px;
-        }
-        
-        
-        .Portimage2{
-            border: 2px solid black;            
-            height: 275px;
-            margin: 5px 5px 5px 5px;           
-            transform: rotate(0deg);
-            width: 275px;
-        }
+    .Portimage1{       
+        height: 275px;
+        margin: 5px;            
+        width: 275px;
+    }
+    
+    
+    .Portimage2{           
+        height: 275px;
+        margin: 5px 5px 5px 5px;           
+        width: 275px;
+    }
    	
     
     .topbox {
@@ -464,12 +434,10 @@
 
     .style {
         height: 900px;
-
     }
 
     .style-p {
         height: 1900px;
-
     }
 
 }
@@ -484,26 +452,15 @@
 
 @media only screen and (max-width: 768px){
     .biosection {
-        background-color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        font-family: 'Sawarabi Mincho', sans-serif;
         margin: 0 0 0 75px;
         padding: 0 20px 20px;
-        height: auto;
-        position: relative;
         width: 600px;
     }
 
     .biosection-p {
-        background-color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        font-family: 'Sawarabi Mincho', sans-serif;
         margin: 0 0 0 75px;
         padding: 0 20px 20px;
         height: 1750px;
-        position: relative;
         width: 600px;
     }
 
@@ -543,27 +500,23 @@
         padding:30px 0 0 0;
    }
 
-         .portfoliocontainers {        
-            margin: 5px;
-        }
+        .portfoliocontainers {        
+        margin: 5px;
+    }
 
-        .Portimage1{
-            border: 2px solid black;        
-            height: 275px;
-            margin: 5px;            
-            transform: rotate(0deg);
-            width: 275px;
-        }
-        
-        
-        .Portimage2{
-            border: 2px solid black;            
-            height: 275px;
-            margin: 5px 5px 5px 5px;           
-            transform: rotate(0deg);
-            width: 275px;
-        }
-   	
+    .Portimage1{      
+        height: 275px;
+        margin: 5px;            
+        width: 275px;
+    }
+    
+    
+    .Portimage2{            
+        height: 275px;
+        margin: 5px 5px 5px 5px;           
+        width: 275px;
+    }
+
     
     .topbox {
         margin: 0 0 0 71px; 
@@ -571,12 +524,10 @@
 
     .style {
         height: 900px;
-
     }
 
     .style-p {
         height: 1900px;
-
     }
 
 }
@@ -586,38 +537,20 @@
 
 
         .biosection {
-            background-color: #ffffff;
-            font-size: 16px;
-            font-weight: 400;
-            font-family: 'Sawarabi Mincho', sans-serif;
             margin: 0 0 0 90px;
             padding: 0 20px 20px;
-            height: auto;
-            position: relative;
             width: 400px;
         }
 
         .biosection-p {
-            background-color: #ffffff;
-            font-size: 16px;
-            font-weight: 400;
-            font-family: 'Sawarabi Mincho', sans-serif;
             margin: 0 0 0 90px;
             padding: 0 20px 20px;
             height: 2700px;
-            position: relative;
             width: 400px;
         }
 
-
         .copyrighttxt {
-            background-color: grey;
-            color: white;
-            display: block; 
-            height: auto;
             margin: 0 0 50px 200px;
-            position: relative;
-            text-align: center;
             width: 180px;
         }
 
@@ -625,38 +558,26 @@
            width: 95%;
         }
 
+        .firstparagraphindent {
+            padding: 170px 0 0 10px;
+            
+        }
+
         .greyline {
-            background-color: grey;
-            height: 2px;
-            margin: 0;
-            width: 100%;
             position: relative;
             top: 80px;
         }
 
         .indentheader {
-            color: #4aaaa5;
             margin: 10px 0 10px 140px;
-        }
-        .myimage { 
-            border: 2px solid black;
-            height: auto;
-            transform: rotate(0deg);
-            width: 200px;
-            margin: 0 95px 40px;
         }
 
         .line2 {  
-            background-color: grey;
-            display: block;
-            height: 2px;
-            margin: 0 10px;
             width: 380px;  
         }
 
-        .firstparagraphindent {
-            padding: 170px 0 0 10px;
-            
+        .myimage { 
+            margin: 0 95px 40px;
         }
 
         .msgentrybox {           
@@ -664,11 +585,7 @@
         }
       
         .name {
-            background-color: #4aaaa5;
-            color: white;           
-            font-family: 'Sawarabi Mincho', sans-serif;
             height: 61px;
-            margin: 0;
             padding: 10px 0 0 20px;
             text-align: center;
             width: 100%;   
@@ -683,45 +600,34 @@
          
         }
         .pagecolor {
-            background: url(../../assets/images/dust_scratches.png);
             height: auto;
             margin: 75px 0 0 0;
-            padding: 55px 0 75px;
-            width: 100%;	
+            padding: 55px 0 75px;	
         }
 
         .pagecolor-p {
-            background: url(../../assets/images/dust_scratches.png);
-            height: 100%;
             margin: 75px 0 0 0;
-            padding: 55px 0;
-            width: 100%;	
+            padding: 55px 0;	
         }
 
         .portfoliocontainers {        
             margin: 5px 80px 5px 95px;
         }
 
-        .Portimage1{
-            border: 2px solid black;        
+        .Portimage1{      
             height: 200px;
             margin: 5px;            
-            transform: rotate(0deg);
             width: 200px;
         }
         
         
-        .Portimage2{
-            border: 2px solid black;            
+        .Portimage2{           
             height: 200px;
             margin: 5px 5px 5px 5px;           
-            transform: rotate(0deg);
             width: 200px;
         }
         
         .topbox {
-            color: #cccccc;
-            height: auto;
             margin: 0;
             padding: 0;
             width: 100%;
